@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfUnmannedAerialVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UnmannedAerialVehicle xsi:type="Quadrocopter">
+    <Model>Квадрокоптер 1</Model>
+    <Weight>5</Weight>
+    <Velocity>0</Velocity>
+    <Coord>
+      <X>50</X>
+      <Y>50</Y>
+      <Z>50</Z>
+    </Coord>
+  </UnmannedAerialVehicle>
+  <UnmannedAerialVehicle xsi:type="Quadrocopter">
+    <Model>Квадрокоптер 2</Model>
+    <Weight>5</Weight>
+    <Velocity>0</Velocity>
+    <Coord>
+      <X>50</X>
+      <Y>50</Y>
+      <Z>50</Z>
+    </Coord>
+  </UnmannedAerialVehicle>
+  <UnmannedAerialVehicle xsi:type="UnmannedPlane">
+    <Model>Самолёт 1</Model>
+    <Weight>12</Weight>
+    <Velocity>0</Velocity>
+    <Coord>
+      <X>50</X>
+      <Y>50</Y>
+      <Z>50</Z>
+    </Coord>
+  </UnmannedAerialVehicle>
+  <UnmannedAerialVehicle xsi:type="UnmannedPlane">
+    <Model>Самолёт 2</Model>
+    <Weight>10</Weight>
+    <Velocity>0</Velocity>
+    <Coord>
+      <X>50</X>
+      <Y>50</Y>
+      <Z>50</Z>
+    </Coord>
+  </UnmannedAerialVehicle>
+</ArrayOfUnmannedAerialVehicle>
